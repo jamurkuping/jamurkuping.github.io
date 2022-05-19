@@ -3,11 +3,15 @@
     {
       "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "ADMOB",
+      "select_backup_ads"         : "APPLOVIN-M",
 
+      "main_ads_banner"           : "YOUR_PLACEMENT_ID",
       "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
       "main_ads_native"           : "YOUR_PLACEMENT_ID",
 
+      "open_ads"                  : "YOUR_PLACEMENT_ID",
+
+      "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
       "backup_ads_intertitial"    : "YOUR_PLACEMENT_ID",
       "backup_ads_native"         : "YOUR_PLACEMENT_ID",
       
@@ -23,7 +27,7 @@
       "high_paying_keyword_5"     : "car insurance",
 
       "warna_native"              : "#05eccc68",
-      "line_atau_polos"           : "1",
+      "line_atau_polos"           : "0",
       "size_native"               : "2",
 
       "status_app": "0",

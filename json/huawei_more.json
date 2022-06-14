@@ -1,0 +1,54 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More Apps",
+      "image":"https://jamurkuping.github.io/image/semua2.webp",
+      "link":"https://play.google.com/store/apps/developer?id=Jamur+Kuping"
+    },
+    {
+      "id":11,
+      "title":"Jimin BTS",
+      "image":"https://jamurkuping.github.io/image/btsjimin.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsjimin"
+    },
+    {
+      "id":12,
+      "title":"JHope BTS",
+      "image":"https://jamurkuping.github.io/image/btsjhope.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsjhope"
+    },
+    {
+      "id":13,
+      "title":"Jin BTS",
+      "image":"https://jamurkuping.github.io/image/btsjin.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsjin"
+    },
+    {
+      "id":14,
+      "title":"RM BTS",
+      "image":"https://jamurkuping.github.io/image/btsrapmonster.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsrapmonster"
+    },
+    {
+      "id":15,
+      "title":"Suga BTS",
+      "image":"https://jamurkuping.github.io/image/btssuga.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btssuga"
+    },
+    {
+      "id":16,
+      "title":"Jungkook BTS",
+      "image":"https://jamurkuping.github.io/image/btsjungkook.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btsjungkook"
+    },
+    {
+      "id":17,
+      "title":"V BTS",
+      "image":"https://jamurkuping.github.io/image/btstaehyung.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.jamur.btstaehyung"
+    }
+  ]
+
+}
